@@ -21,6 +21,16 @@
 	- 데이터를 입력받을 수 있다.
 
 	KeyCode : 입력을 통해 입력한 글자의 키코드를 알 수 있다.
+
 	Test01 : 함수를 입력받아 출력하는 예제문제
 
+## Chapter 3
+
+<https://github.com/kdhLP/java_edu/tree/master/src/ch03>
+1. Exam01 : 
+	- 다양한 연산자를 학습
+	- 조건 제어식의 사용
+
+## chapter 4
+<https://github.com/kdhLP/java_edu/tree/master/src/ch04>
 
